@@ -85,6 +85,6 @@ AND deaths.date = vacc.date
 WHERE deaths.continent IS NOT NULL AND vacc.people_vaccinated IS NOT NULL
 GROUP BY deaths.continent,deaths.location,deaths.population
 
--- Double check the view
+-- Double-check the view
 SELECT * 
 FROM PercentPopulationVaccinated 
