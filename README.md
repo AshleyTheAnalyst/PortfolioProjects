@@ -1,0 +1,1 @@
+This repository contains selected scripts demonstrating my programming skills in data analysis, data wrangling, and data curation. The projects include SQL-based exploratory analysis and Python-based clinical record cleaning and transformation workflows.
